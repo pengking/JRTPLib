@@ -1,0 +1,43 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Jrtp", "Jrtp.vcxproj", "{BA3FA385-2122-A3C3-5901-EECE4E6B5C68}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MultiReceiver", "MultiReceiver.vcxproj", "{D58970B2-6A9F-6DD0-F4EF-910355CE1960}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MultiSender", "MultiSender.vcxproj", "{35C39C66-1E34-8339-3A16-FBE860712114}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ReceiveData", "ReceiveData.vcxproj", "{84C94881-FBED-989C-1553-07A8DADFA005}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SendData", "SendData.vcxproj", "{EEC65EA1-DC46-FD12-E11F-1ABAA1C93828}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35C39C66-1E34-8339-3A16-FBE860712114}.Debug|Win32.ActiveCfg = Debug|Win32
+		{35C39C66-1E34-8339-3A16-FBE860712114}.Debug|Win32.Build.0 = Debug|Win32
+		{35C39C66-1E34-8339-3A16-FBE860712114}.Release|Win32.ActiveCfg = Release|Win32
+		{35C39C66-1E34-8339-3A16-FBE860712114}.Release|Win32.Build.0 = Release|Win32
+		{84C94881-FBED-989C-1553-07A8DADFA005}.Debug|Win32.ActiveCfg = Debug|Win32
+		{84C94881-FBED-989C-1553-07A8DADFA005}.Debug|Win32.Build.0 = Debug|Win32
+		{84C94881-FBED-989C-1553-07A8DADFA005}.Release|Win32.ActiveCfg = Release|Win32
+		{84C94881-FBED-989C-1553-07A8DADFA005}.Release|Win32.Build.0 = Release|Win32
+		{BA3FA385-2122-A3C3-5901-EECE4E6B5C68}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BA3FA385-2122-A3C3-5901-EECE4E6B5C68}.Debug|Win32.Build.0 = Debug|Win32
+		{BA3FA385-2122-A3C3-5901-EECE4E6B5C68}.Release|Win32.ActiveCfg = Release|Win32
+		{BA3FA385-2122-A3C3-5901-EECE4E6B5C68}.Release|Win32.Build.0 = Release|Win32
+		{D58970B2-6A9F-6DD0-F4EF-910355CE1960}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D58970B2-6A9F-6DD0-F4EF-910355CE1960}.Debug|Win32.Build.0 = Debug|Win32
+		{D58970B2-6A9F-6DD0-F4EF-910355CE1960}.Release|Win32.ActiveCfg = Release|Win32
+		{D58970B2-6A9F-6DD0-F4EF-910355CE1960}.Release|Win32.Build.0 = Release|Win32
+		{EEC65EA1-DC46-FD12-E11F-1ABAA1C93828}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EEC65EA1-DC46-FD12-E11F-1ABAA1C93828}.Debug|Win32.Build.0 = Debug|Win32
+		{EEC65EA1-DC46-FD12-E11F-1ABAA1C93828}.Release|Win32.ActiveCfg = Release|Win32
+		{EEC65EA1-DC46-FD12-E11F-1ABAA1C93828}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
